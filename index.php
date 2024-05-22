@@ -122,7 +122,7 @@
         <section class="urgent-cause2 with-bg sec-padd3">
             <div class="container">
                 <div class="section-title center">
-                    <h2>Progams</h2>
+                    <h2>Programs</h2>
                 </div>
                 <div class="gallery-carousel">
                     <div class="item">
