@@ -160,7 +160,7 @@
                             <img alt="Injot Dahar" src="assets/images/img/programs/education/Felicitation Programme for Meritorious Students.jpg">
                         </div>
                         <div class="content text-center">
-                            <h4 class="title">Felicitation Programme for Meritorious Students</h4>
+                            <h4 class="title">Felicitation Programe for Meritorious Students</h4>
                             <a href="program.php" class="thm-btn style-2 text-center">Read More</a>
                         </div>
                     </div>

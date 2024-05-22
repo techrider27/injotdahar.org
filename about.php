@@ -171,7 +171,7 @@
                     <div class="col-md-7 col-sm-12 col-xs-12">
                         <div class="content">
                             <h2>
-                                Injot Dahar, works with a mission to empower underprivileged children, youth and women through relevant education, innovative healthcare programmes.
+                                Injot Dahar, works with a mission to empower underprivileged children, youth and women through relevant education, innovative healthcare programes.
                             </h2>
                         </div>
                     </div>
