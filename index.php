@@ -122,7 +122,7 @@
         <section class="urgent-cause2 with-bg sec-padd3">
             <div class="container">
                 <div class="section-title center">
-                    <h2>Progams</h2>
+                    <h2>Programs</h2>
                 </div>
                 <div class="gallery-carousel">
                     <div class="item">
@@ -160,7 +160,7 @@
                             <img alt="Injot Dahar" src="assets/images/img/programs/education/Felicitation Programme for Meritorious Students.jpg">
                         </div>
                         <div class="content text-center">
-                            <h4 class="title">Felicitation Programme for Meritorious Students</h4>
+                            <h4 class="title">Felicitation Program for Meritorious Students</h4>
                             <a href="program.php" class="thm-btn style-2 text-center">Read More</a>
                         </div>
                     </div>
