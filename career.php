@@ -45,7 +45,7 @@
 
                 <div class="row align">
                     <div class="col-md-5 col-sm-12 col-xs-12 left-column">
-                        <img class="img-css" src="assets/images/img/career-img.jpg" alt="Career at Injot Dahar" style="margin:0 0 40px 0;">
+                        <img class="img-css" src="assets/images/img/career-img.jpg" alt="Career at Injot Dahar" style="margin:0 0 40px 0;" loading="lazy">
                     </div>
 
 
@@ -101,7 +101,7 @@
                         </div>
                     </div>
                     <div class="col-md-4 col-sm-12 col-xs-12">
-                        <img class="qr-img" src="assets/images/img/QR-Code-SBI-InjotDahar.jpg" alt="Injot Dahar">
+                        <img class="qr-img" src="assets/images/img/QR-Code-SBI-InjotDahar.jpg" alt="Injot Dahar" loading="lazy">
                         <div class="content center bank-details">
                             <h3>Bank Details</h3>
                             <h4>Injot Dahar</h4>

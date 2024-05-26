@@ -44,9 +44,9 @@
 
                 <div class="row align">
                     <div class="col-lg-5 col-md-5 col-sm-12 col-xs-12 left-column">
-                        <img class="img-css" src="assets/images/img/about.jpg" alt="Injot Dahar" style="margin:0 0 40px 0;">
+                        <img class="img-css" src="assets/images/img/about.jpg" alt="Injot Dahar" style="margin:0 0 40px 0;" loading="lazy">
 
-                        <img class="img-css" src="assets/images/img/welcome.jpg" alt="Injot Dahar" style="margin:0 0 20px 0;">
+                        <img class="img-css" src="assets/images/img/welcome.jpg" alt="Injot Dahar" style="margin:0 0 20px 0;" loading="lazy">
                     </div>
 
 
@@ -95,7 +95,7 @@
 
                 <div class="row align">
                     <div class="col-lg-5 col-md-5 col-sm-12 col-xs-12 left-column mb-3">
-                        <img class="img-css" src="assets/images/img/about-2.jpg" alt="Injot Dahar">
+                        <img class="img-css" src="assets/images/img/about-2.jpg" alt="Injot Dahar" loading="lazy">
                     </div>
 
 
@@ -138,7 +138,7 @@
                 <div class="row align">
                     <div class="col-md-5 col-sm-12 left-column">
                         <div class="mb-3">
-                            <img class="img-css" src="assets/images/img/vision-mission/vision.jpg" alt="Injot Dahar">
+                            <img class="img-css" src="assets/images/img/vision-mission/vision.jpg" alt="Injot Dahar" loading="lazy">
                         </div>
                     </div>
                     <div class="col-md-7 col-sm-12 col-xs-12">
@@ -163,7 +163,7 @@
                 <div class="row align">
                     <div class="col-md-5 col-sm-12 left-column">
                         <div class="mb-3">
-                            <img class="img-css" src="assets/images/img/vision-mission/mission.jpg" alt="Injot Dahar">
+                            <img class="img-css" src="assets/images/img/vision-mission/mission.jpg" alt="Injot Dahar" loading="lazy">
                         </div>
                     </div>
 
@@ -189,7 +189,7 @@
 
                 <div class="row align-items-center">
                     <div class="col-md-8 col-sm-12 left-column text-center mx-auto">
-                        <img class="img-css" src="assets/images/img/registration-certificate.jpg" alt="Injot Dahar">
+                        <img class="img-css" src="assets/images/img/registration-certificate.jpg" alt="Injot Dahar" loading="lazy">
                     </div>
                 </div>
             </div>

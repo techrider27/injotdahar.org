@@ -77,7 +77,7 @@
 
                 <div class="row align">
                     <div class="col-lg-5 col-md-5 col-sm-12 left-column mb-3">
-                        <img class="img-css" src="assets/images/img/welcome.jpg" alt="Injot Dahar">
+                        <img class="img-css" src="assets/images/img/welcome.jpg" alt="Injot Dahar" loading="lazy">
                     </div>
 
 
@@ -127,7 +127,7 @@
                 <div class="gallery-carousel">
                     <div class="item">
                         <div class="inner-box">
-                            <img alt="Injot Dahar" src="assets/images/img/programs/healthcare/Health Awareness, Career Guidance & Human Trafficking Workshop.jpg">
+                            <img alt="Injot Dahar" src="assets/images/img/programs/healthcare/Health Awareness, Career Guidance & Human Trafficking Workshop.jpg" loading="lazy">
                         </div>
                         <div class="content text-center">
                             <h4 class="title">Career Guidance, Health & Human Trafficking Workshop</h4>
@@ -137,7 +137,7 @@
 
                     <div class="item">
                         <div class="inner-box">
-                            <img alt="Injot Dahar" src="assets/images/img/programs/education/Adopting Aanganbadi, Building Hope.jpg">
+                            <img alt="Injot Dahar" src="assets/images/img/programs/education/Adopting Aanganbadi, Building Hope.jpg" loading="lazy">
                         </div>
                         <div class="content text-center">
                             <h4 class="title">Adopting Aanganbadi, <br>Building Hope</h4>
@@ -147,7 +147,7 @@
 
                     <div class="item">
                         <div class="inner-box">
-                            <img alt="Injot Dahar" src="assets/images/img/programs/entrepreneurship/film-making-workshop.jpg">
+                            <img alt="Injot Dahar" src="assets/images/img/programs/entrepreneurship/film-making-workshop.jpg" loading="lazy">
                         </div>
                         <div class="content text-center">
                             <h4 class="title">Filmmaking workshop inaugrated by Mrs. Vandana Dadel</h4>
@@ -157,7 +157,7 @@
 
                     <div class="item">
                         <div class="inner-box">
-                            <img alt="Injot Dahar" src="assets/images/img/programs/education/Felicitation Programme for Meritorious Students.jpg">
+                            <img alt="Injot Dahar" src="assets/images/img/programs/education/Felicitation Programme for Meritorious Students.jpg" loading="lazy">
                         </div>
                         <div class="content text-center">
                             <h4 class="title">Felicitation Program for Meritorious Students</h4>
@@ -167,7 +167,7 @@
 
                     <div class="item">
                         <div class="inner-box">
-                            <img alt="Injot Dahar" src="assets/images/img/programs/healthcare/Medical Camp organised by Injot Dahar Society.jpg">
+                            <img alt="Injot Dahar" src="assets/images/img/programs/healthcare/Medical Camp organised by Injot Dahar Society.jpg" loading="lazy">
                         </div>
                         <div class="content text-center">
                             <h4 class="title">Medical Camp organised by Injot Dahar Society</h4>
@@ -177,7 +177,7 @@
 
                     <div class="item">
                         <div class="inner-box">
-                            <img alt="Injot Dahar" src="assets/images/img/programs/education/Career based Webinar, Organised by Injot Dahar.jpg">
+                            <img alt="Injot Dahar" src="assets/images/img/programs/education/Career based Webinar, Organised by Injot Dahar.jpg" loading="lazy">
                         </div>
                         <div class="content text-center">
                             <h4 class="title">Career based Webinar, Organised by Injot Dahar</h4>
@@ -295,7 +295,7 @@
                                 <li class="pager-item">
                                     <div class="inner-box">
                                         <figure class="author-thumb">
-                                            <img alt="Injot Dahar" src="assets/images/img/testimonials/menesa-kirum-aind.png">
+                                            <img alt="Injot Dahar" src="assets/images/img/testimonials/menesa-kirum-aind.png" loading="lazy">
                                         </figure>
                                     </div>
                                 </li>
@@ -303,7 +303,7 @@
                                 <li class="pager-item">
                                     <div class="inner-box">
                                         <figure class="author-thumb">
-                                            <img alt="Injot Dahar" src="assets/images/img/testimonials/author1.png">
+                                            <img alt="Injot Dahar" src="assets/images/img/testimonials/author1.png" loading="lazy">
                                         </figure>
                                     </div>
                                 </li>

@@ -19,14 +19,14 @@
                     <div class="widget-content">
                         <ul class="social-icon" style="display:flex;justify-content:start;">
                             <li>
-                                <a href="javascript:void(0);" id="facebook"><i class="fa fa-facebook"></i></a>
+                                <a href="javascript:void(0);" aria-label="facebook" id="facebook"><i class="fa fa-facebook"></i></a>
                             </li>
                             <li>
-                                <a href="javascript:void(0);" id="linkedin"><i class="fa fa-linkedin"></i></a>
+                                <a href="javascript:void(0);" aria-label="linkedin" id="linkedin"><i class="fa fa-linkedin"></i></a>
                             </li>
 
                             <li>
-                                <a href="https://www.instagram.com/injotdahar/?igsh=MXBnZWk4eXA3bm5tOA%3D%3D" id="instagram"><i class="fa fa-instagram"></i></a>
+                                <a href="https://www.instagram.com/injotdahar/?igsh=MXBnZWk4eXA3bm5tOA%3D%3D" aria-label="instagram" id="instagram"><i class="fa fa-instagram"></i></a>
                             </li>
                         </ul>
                     </div>

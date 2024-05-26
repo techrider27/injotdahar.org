@@ -45,9 +45,9 @@
 
                 <div class="row align">
                     <div class="col-md-5 col-sm-12 col-xs-12 left-column">
-                        <img class="img-css" src="assets/images/img/team/team2.jpg" alt="Injot Dahar Team" style="margin:0 0 40px 0;">
+                        <img class="img-css" src="assets/images/img/team/team2.jpg" alt="Injot Dahar Team" style="margin:0 0 40px 0;" loading="lazy">
 
-                        <img class="img-css" src="assets/images/img/team/team.jpg" alt="Injot Dahar Team" style="margin:0 0 20px 0;">
+                        <img class="img-css" src="assets/images/img/team/team.jpg" alt="Injot Dahar Team" style="margin:0 0 20px 0;" loading="lazy">
                     </div>
 
 
@@ -97,7 +97,7 @@
                     <div class="item col-md-3 col-sm-6 col-xs-6 mb-3">
                         <div class="inner-box">
                             <div class="img-box">
-                                <img src="assets/images/img/team/alka-hembrom.png" alt="Alka Hembrom Injot Dahar President">
+                                <img src="assets/images/img/team/alka-hembrom.png" alt="Alka Hembrom Injot Dahar President" loading="lazy">
                             </div>
                         </div>
                         <div class="author center">
@@ -109,7 +109,7 @@
                     <div class="item col-md-3 col-sm-6 col-xs-6 mb-3">
                         <div class="inner-box">
                             <div class="img-box">
-                                <img alt="Mahadeo Munda Injot Dahar Vice President" src="assets/images/img/team/mahadeo-munda.png">
+                                <img alt="Mahadeo Munda Injot Dahar Vice President" src="assets/images/img/team/mahadeo-munda.png" loading="lazy">
                             </div>
                         </div>
                         <div class="author center">
@@ -121,7 +121,7 @@
                     <div class="item col-md-3 col-sm-6 col-xs-6 mb-3">
                         <div class="inner-box">
                             <div class="img-box">
-                                <img alt="Jonas Lal Marandi Injot Dahar Vice President" src="assets/images/img/team/jona-lal-marandi.png">
+                                <img alt="Jonas Lal Marandi Injot Dahar Vice President" src="assets/images/img/team/jona-lal-marandi.png" loading="lazy">
                             </div>
                         </div>
                         <div class="author center">
@@ -133,7 +133,7 @@
                     <div class="item col-md-3 col-sm-6 col-xs-6 mb-3">
                         <div class="inner-box">
                             <div class="img-box">
-                                <img alt="Deonis Xess Injot Dahar General Secretary" src="assets/images/img/team/deonis-xess.png">
+                                <img alt="Deonis Xess Injot Dahar General Secretary" src="assets/images/img/team/deonis-xess.png" loading="lazy">
                             </div>
                         </div>
                         <div class="author center">
@@ -146,7 +146,7 @@
                     <div class="item col-md-3 col-sm-6 col-xs-6 mb-3">
                         <div class="inner-box">
                             <div class="img-box">
-                                <img alt="Anand Xalxo Injot Dahar Joint Secretary" src="assets/images/img/team/anand-xalxo.png">
+                                <img alt="Anand Xalxo Injot Dahar Joint Secretary" src="assets/images/img/team/anand-xalxo.png" loading="lazy">
                             </div>
                         </div>
                         <div class="author center">
@@ -159,7 +159,7 @@
                     <div class="item col-md-3 col-sm-6 col-xs-6 mb-3">
                         <div class="inner-box">
                             <div class="img-box">
-                                <img alt="Abhishek Beck Injot Dahar Treasurer" src="assets/images/img/team/abhishek-beck.png">
+                                <img alt="Abhishek Beck Injot Dahar Treasurer" src="assets/images/img/team/abhishek-beck.png" loading="lazy">
                             </div>
                         </div>
                         <div class="author center">
@@ -171,7 +171,7 @@
                     <div class="item col-md-3 col-sm-6 col-xs-6 mb-3">
                         <div class="inner-box">
                             <div class="img-box">
-                                <img alt="Subodh Runda Injot Dahar Joint Treasurer" src="assets/images/img/team/subodh-runda.png">
+                                <img alt="Subodh Runda Injot Dahar Joint Treasurer" src="assets/images/img/team/subodh-runda.png" loading="lazy">
                             </div>
                         </div>
                         <div class="author center">
@@ -191,7 +191,7 @@
                     <div class="item col-md-3 col-sm-6 col-xs-6 mb-3">
                         <div class="inner-box">
                             <div class="img-box">
-                                <img alt="Injot Dahar Team" src="assets/images/img/woman.png">
+                                <img alt="Injot Dahar Team" src="assets/images/img/woman.png" loading="lazy">
                             </div>
                         </div>
                         <div class="author center">
@@ -202,7 +202,7 @@
                     <div class="item col-md-3 col-sm-6 col-xs-6 mb-3">
                         <div class="inner-box">
                             <div class="img-box">
-                                <img alt="Injot Dahar Team" src="assets/images/img/man.png">
+                                <img alt="Injot Dahar Team" src="assets/images/img/man.png" loading="lazy">
                             </div>
                         </div>
                         <div class="author center">
@@ -219,7 +219,7 @@
                     <div class="item col-md-3 col-sm-6 col-xs-6 mb-3">
                         <div class="inner-box">
                             <div class="img-box">
-                                <img alt="Injot Dahar Team" src="assets/images/img/team/atul-tirkey.png">
+                                <img alt="Injot Dahar Team" src="assets/images/img/team/atul-tirkey.png" loading="lazy">
                             </div>
                         </div>
                         <div class="author center">
@@ -230,7 +230,7 @@
                     <div class="item col-md-3 col-sm-6 col-xs-6 mb-3">
                         <div class="inner-box">
                             <div class="img-box">
-                                <img alt="Injot Dahar Team" src="assets/images/img/team/john-denis-horo.jpg">
+                                <img alt="Injot Dahar Team" src="assets/images/img/team/john-denis-horo.jpg" loading="lazy">
                             </div>
                         </div>
                         <div class="author center">
@@ -248,7 +248,7 @@
                     <div class="item col-md-3 col-sm-6 col-xs-6 mb-3">
                         <div class="inner-box">
                             <div class="img-box">
-                                <img alt="Injot Dahar Team" src="assets/images/img/team/smrit-kujur.png">
+                                <img alt="Injot Dahar Team" src="assets/images/img/team/smrit-kujur.png" loading="lazy">
                             </div>
                         </div>
                         <div class="author center">

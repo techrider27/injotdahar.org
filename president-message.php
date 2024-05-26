@@ -44,7 +44,7 @@
 
                 <div class="row">
                     <div class="col-md-4 col-sm-6 col-xs-12 left-column mb-2">
-                        <img class="img-css" src="assets/images/img/team/president.png" alt="Injot Dahar President" style="margin:0 0 20px 0;">
+                        <img class="img-css" src="assets/images/img/team/president.png" alt="Injot Dahar President" style="margin:0 0 20px 0;" loading="lazy">
                     </div>
 
 

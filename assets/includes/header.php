@@ -1,4 +1,4 @@
-<a href="https://api.whatsapp.com/send?l=en&amp;phone=9921820670" target="_blank" class="whatsapp-btn"><i class="fa fa-whatsapp"></i></a>
+<a href="https://api.whatsapp.com/send?l=en&amp;phone=9921820670" aria-label="whatsapp button" target="_blank" class="whatsapp-btn"><i class="fa fa-whatsapp"></i></a>
 
 <div class="top-bar">
     <div class="container">
@@ -25,7 +25,7 @@
         <div class="row">
             <div class="col-md-3">
                 <div class="main-logo">
-                    <a href="index.php"><img alt="" src="assets/images/logo/logo.png"></a>
+                    <a href="index.php" aria-label="Injot Dahar Logo"><img alt="logo" src="assets/images/logo/logo.png"></a>
                 </div>
             </div>
 
