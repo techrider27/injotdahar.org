@@ -42,7 +42,7 @@
                         <img class="w-100" src="assets/images/img/slider/slider-3.jpg" alt="Injot Dahar">
                         <div class="carousel-caption">
                             <h3>
-                                Felicitation Of Meritorious Tribal Students At Ranchi, 2023
+                                Felicitation Of Meritorious Tribal Students At Ranchi, 2022
                             </h3>
                         </div>
                     </div>
@@ -267,7 +267,22 @@
                 <div class="section-title center">
                     <h2>Testimonials</h2>
                 </div>
-                <div class="inner-container">
+                <div class="row">
+                    <div class="col-lg-12">
+                        <div class="testimonial-div">
+                            <div>
+                                <img src="assets/images/img/testimonials/menesa-kirum-aind.png" alt="Injot Dahar">
+                            </div>
+                            <div>
+                                <h4 class="title">मेरी निराशा से भरी ज़िन्दगी में आशा की रौशनी 'इंजोत डहर' ने लाया। <br>'इँजोत डहर' पहला है, जिसने मुझसे पूछा कि मैं करना क्या चाहती हूँ</h4>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+
+
+                <!-- <div class="inner-container">
                     <div class="carousel-outer">
                         <ul class="testimonial-slider-content">
                             <li class="slide-item">
@@ -310,7 +325,9 @@
                             </ul>
                         </div>
                     </div>
-                </div>
+                </div> -->
+
+                
             </div>
         </section>
 
