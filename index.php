@@ -8,7 +8,7 @@
 </head>
 
 <body>
-    <div id="myModal-2" class="modal fade" role="dialog" style="z-index:999999!important;">
+    <!-- <div id="myModal-2" class="modal fade" role="dialog" style="z-index:999999!important;">
         <div class="modal-dialog" style="top:35%;">
             <div class="modal-content">
                 <button type="button" class="close" data-dismiss="modal" aria-label="Close" style="margin: 10px 15px;
@@ -30,7 +30,7 @@
                 <img class="img-responsive" src="assets/images/popup/popup-1.jpg" style="width:100%;background:var(--injot-primary);">
             </div>
         </div>
-    </div>
+    </div> -->
     <div class="boxed_wrapper">
         <?php include 'assets/includes/header.php' ?>
 
@@ -45,6 +45,14 @@
 
                 <div class="carousel-inner" role="listbox">
                     <div class="item active">
+                        <img class="w-100" src="assets/images/img/slider/slider-5.jpg" alt="Injot Dahar">
+                        <!-- <div class="carousel-caption">
+                            <h3>
+                                Felicitation Of Meritorious Tribal Students At Ranchi, 2023
+                            </h3>
+                        </div> -->
+                    </div>
+                    <div class="item">
                         <img class="w-100" src="assets/images/img/slider/slider-2.jpg" alt="Injot Dahar">
                         <div class="carousel-caption">
                             <h3>
