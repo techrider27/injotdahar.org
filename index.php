@@ -8,8 +8,30 @@
 </head>
 
 <body>
+    <div id="myModal-2" class="modal fade" role="dialog" style="z-index:999999!important;">
+        <div class="modal-dialog" style="top:35%;">
+            <div class="modal-content">
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close" style="margin: 10px 15px;
+                        z-index: 0;
+                        position: absolute;
+                        right: 0px;
+                        color: #ffffff;
+                        background: red;
+                        width: 30px;
+                        height: 30px;
+                        border:none;
+                        line-height: 20px;
+                        font-weight: 600;
+                        text-align: center;
+                        font-size: 18px;
+                        opacity:1;">
+                    <span aria-hidden="true" style="background:red;">X</span>
+                </button>
+                <img class="img-responsive" src="assets/images/popup/popup-1.jpg" style="width:100%;background:var(--injot-primary);">
+            </div>
+        </div>
+    </div>
     <div class="boxed_wrapper">
-
         <?php include 'assets/includes/header.php' ?>
 
         <section class="slider">
@@ -327,7 +349,7 @@
                     </div>
                 </div> -->
 
-                
+
             </div>
         </section>
 

@@ -34,3 +34,11 @@
         });
     });
 </script>
+<script>
+    $(window).on('load', function() {
+        $('#myModal-2').modal('show');
+    });
+    $('.close').on('click', function() {
+        $('#myModal-2').modal('hide');
+    });
+</script>
