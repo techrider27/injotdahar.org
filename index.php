@@ -35,22 +35,41 @@
         <?php include 'assets/includes/header.php' ?>
 
         <section class="slider">
-            <div id="carousel-example-generic" class="carousel slide" data-ride="carousel" data-pause="false" data-interval="6000">
+            <div id="carousel-example-generic" class="carousel slide" data-ride="carousel" data-pause="false" data-interval="8000">
                 <ol class="carousel-indicators">
                     <li data-target="#carousel-example-generic" data-slide-to="0" class="active"></li>
                     <li data-target="#carousel-example-generic" data-slide-to="1"></li>
                     <li data-target="#carousel-example-generic" data-slide-to="2"></li>
                     <li data-target="#carousel-example-generic" data-slide-to="3"></li>
+                    <li data-target="#carousel-example-generic" data-slide-to="4"></li>
+                    <li data-target="#carousel-example-generic" data-slide-to="5"></li>
+                    <li data-target="#carousel-example-generic" data-slide-to="6"></li>
                 </ol>
 
                 <div class="carousel-inner" role="listbox">
                     <div class="item active">
-                        <img class="w-100" src="assets/images/img/slider/slider-5.jpg" alt="Injot Dahar">
-                        <!-- <div class="carousel-caption">
+                        <img class="w-100" src="assets/images/img/slider/slider-6.jpg" alt="Injot Dahar">
+                        <div class="carousel-caption">
                             <h3>
-                                Felicitation Of Meritorious Tribal Students At Ranchi, 2023
+                                Felicitation Of Meritorious Tribal Students At Ranchi, 2024
                             </h3>
-                        </div> -->
+                        </div>
+                    </div>
+                    <div class="item">
+                        <img class="w-100" src="assets/images/img/slider/slider-7.jpg" alt="Injot Dahar">
+                        <div class="carousel-caption">
+                            <h3>
+                                Felicitation Of Meritorious Tribal Students At Ranchi, 2024
+                            </h3>
+                        </div>
+                    </div>
+                    <div class="item">
+                        <img class="w-100" src="assets/images/img/slider/slider-8.jpg" alt="Injot Dahar">
+                        <div class="carousel-caption">
+                            <h3>
+                                Felicitation Of Meritorious Tribal Students At Ranchi, 2024
+                            </h3>
+                        </div>
                     </div>
                     <div class="item">
                         <img class="w-100" src="assets/images/img/slider/slider-2.jpg" alt="Injot Dahar">

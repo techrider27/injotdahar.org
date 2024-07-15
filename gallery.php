@@ -43,6 +43,61 @@
 
 
                 <div class="row">
+
+
+                    <div class="col-md-3 col-md-3 col-sm-6 col-xs-6 mb-2">
+                        <div class="gallery-div">
+                            <a class="img-popup" href="assets/images/img/gallery/gallery-30.jpg">
+                                <img src="assets/images/img/gallery/gallery-30.jpg" alt="Injot Dahar" loading="lazy">
+                            </a>
+                        </div>
+                    </div>
+
+
+                    <div class="col-md-3 col-md-3 col-sm-6 col-xs-6 mb-2">
+                        <div class="gallery-div">
+                            <a class="img-popup" href="assets/images/img/gallery/gallery-31.jpg">
+                                <img src="assets/images/img/gallery/gallery-31.jpg" alt="Injot Dahar" loading="lazy">
+                            </a>
+                        </div>
+                    </div>
+
+                    <div class="col-md-3 col-md-3 col-sm-6 col-xs-6 mb-2">
+                        <div class="gallery-div">
+                            <a class="img-popup" href="assets/images/img/gallery/gallery-32.jpg">
+                                <img src="assets/images/img/gallery/gallery-32.jpg" alt="Injot Dahar" loading="lazy">
+                            </a>
+                        </div>
+                    </div>
+
+
+                    <div class="col-md-3 col-md-3 col-sm-6 col-xs-6 mb-2">
+                        <div class="gallery-div">
+                            <a class="img-popup" href="assets/images/img/gallery/gallery-33.jpg">
+                                <img src="assets/images/img/gallery/gallery-33.jpg" alt="Injot Dahar" loading="lazy">
+                            </a>
+                        </div>
+                    </div>
+
+
+                    <div class="col-md-3 col-md-3 col-sm-6 col-xs-6 mb-2">
+                        <div class="gallery-div">
+                            <a class="img-popup" href="assets/images/img/gallery/gallery-34.jpg">
+                                <img src="assets/images/img/gallery/gallery-34.jpg" alt="Injot Dahar" loading="lazy">
+                            </a>
+                        </div>
+                    </div>
+
+
+                    <div class="col-md-3 col-md-3 col-sm-6 col-xs-6 mb-2">
+                        <div class="gallery-div">
+                            <a class="img-popup" href="assets/images/img/gallery/gallery-35.jpg">
+                                <img src="assets/images/img/gallery/gallery-35.jpg" alt="Injot Dahar" loading="lazy">
+                            </a>
+                        </div>
+                    </div>
+
+
                     <div class="col-md-3 col-md-3 col-sm-6 col-xs-6 mb-2">
                         <div class="gallery-div">
                             <a class="img-popup" href="assets/images/img/gallery/gallery-16.jpg">
@@ -203,7 +258,7 @@
                             </a>
                         </div>
                     </div>
-                  
+
                     <div class="col-md-3 col-md-3 col-sm-6 col-xs-6 mb-2">
                         <div class="gallery-div">
                             <a class="img-popup" href="assets/images/img/gallery/gallery-19.jpg">
