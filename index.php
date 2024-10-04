@@ -8,21 +8,86 @@
 </head>
 
 <body>
+    <!-- <div id="myModal-2" class="modal fade" role="dialog" style="z-index:999999!important;">
+        <div class="modal-dialog" style="top:35%;">
+            <div class="modal-content">
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close" style="margin: 10px 15px;
+                        z-index: 0;
+                        position: absolute;
+                        right: 0px;
+                        color: #ffffff;
+                        background: red;
+                        width: 30px;
+                        height: 30px;
+                        border:none;
+                        line-height: 20px;
+                        font-weight: 600;
+                        text-align: center;
+                        font-size: 18px;
+                        opacity:1;">
+                    <span aria-hidden="true" style="background:red;">X</span>
+                </button>
+                <img class="img-responsive" src="assets/images/popup/popup-1.jpg" style="width:100%;background:var(--injot-primary);">
+            </div>
+        </div>
+    </div> -->
     <div class="boxed_wrapper">
-
         <?php include 'assets/includes/header.php' ?>
 
         <section class="slider">
-            <div id="carousel-example-generic" class="carousel slide" data-ride="carousel" data-pause="false" data-interval="6000">
+            <div id="carousel-example-generic" class="carousel slide" data-ride="carousel" data-pause="false" data-interval="8000">
                 <ol class="carousel-indicators">
                     <li data-target="#carousel-example-generic" data-slide-to="0" class="active"></li>
                     <li data-target="#carousel-example-generic" data-slide-to="1"></li>
                     <li data-target="#carousel-example-generic" data-slide-to="2"></li>
                     <li data-target="#carousel-example-generic" data-slide-to="3"></li>
+                    <li data-target="#carousel-example-generic" data-slide-to="4"></li>
+                    <li data-target="#carousel-example-generic" data-slide-to="5"></li>
+                    <li data-target="#carousel-example-generic" data-slide-to="6"></li>
                 </ol>
 
                 <div class="carousel-inner" role="listbox">
                     <div class="item active">
+                        <img class="w-100" src="assets/images/img/slider/slider-9.jpg" alt="Free health checkup camp by Injot Dahar on 22nd September 2024 Kishore Nagar Boy's School, Bargavan, Namkum, Ranchi">
+                        <div class="carousel-caption">
+                            <h3>
+                                Free health checkup camp by Injot Dahar on 22nd September 2024 Kishore Nagar Boy's School, Bargavan, Namkum, Ranchi
+                            </h3>
+                        </div>
+                    </div>
+                    <div class="item">
+                        <img class="w-100" src="assets/images/img/slider/slider-10.jpg" alt="Free health checkup camp by Injot Dahar on 22nd September 2024 Kishore Nagar Boy's School, Bargavan, Namkum, Ranchi">
+                        <div class="carousel-caption">
+                            <h3>
+                                Free health checkup camp by Injot Dahar on 22nd September 2024 Kishore Nagar Boy's School, Bargavan, Namkum, Ranchi
+                            </h3>
+                        </div>
+                    </div>
+                    <div class="item">
+                        <img class="w-100" src="assets/images/img/slider/slider-6.jpg" alt="Injot Dahar">
+                        <div class="carousel-caption">
+                            <h3>
+                                Felicitation Of Meritorious Tribal Students At Ranchi, 2024
+                            </h3>
+                        </div>
+                    </div>
+                    <div class="item">
+                        <img class="w-100" src="assets/images/img/slider/slider-7.jpg" alt="Injot Dahar">
+                        <div class="carousel-caption">
+                            <h3>
+                                Felicitation Of Meritorious Tribal Students At Ranchi, 2024
+                            </h3>
+                        </div>
+                    </div>
+                    <div class="item">
+                        <img class="w-100" src="assets/images/img/slider/slider-8.jpg" alt="Injot Dahar">
+                        <div class="carousel-caption">
+                            <h3>
+                                Felicitation Of Meritorious Tribal Students At Ranchi, 2024
+                            </h3>
+                        </div>
+                    </div>
+                    <div class="item">
                         <img class="w-100" src="assets/images/img/slider/slider-2.jpg" alt="Injot Dahar">
                         <div class="carousel-caption">
                             <h3>
@@ -42,7 +107,7 @@
                         <img class="w-100" src="assets/images/img/slider/slider-3.jpg" alt="Injot Dahar">
                         <div class="carousel-caption">
                             <h3>
-                                Felicitation Of Meritorious Tribal Students At Ranchi, 2023
+                                Felicitation Of Meritorious Tribal Students At Ranchi, 2022
                             </h3>
                         </div>
                     </div>
@@ -56,7 +121,6 @@
                     </div>
                 </div>
 
-                <!-- Controls -->
                 <a class="left carousel-control" href="#carousel-example-generic" role="button" data-slide="prev">
                     <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
                     <span class="sr-only">Previous</span>
@@ -98,19 +162,6 @@
                             </div>
 
                             <a href="about.php" class="thm-btn style-2 text-center">Read More</a>
-
-                            <!-- <ul>
-                                <li><i class="fa fa-check"></i>This mistaken idea of denouncing pleasure</li>
-
-
-                                <li><i class="fa fa-check"></i>Master-builder of human happiness</li>
-
-
-                                <li><i class="fa fa-check"></i>Occasionally circumstances occur in toil</li>
-
-
-                                <li><i class="fa fa-check"></i>Undertakes laborious physical exercise</li>
-                            </ul> -->
                         </div>
                     </div>
                 </div>
@@ -125,6 +176,15 @@
                     <h2>Programs</h2>
                 </div>
                 <div class="gallery-carousel">
+                    <div class="item">
+                        <div class="inner-box">
+                            <img alt="Free health checkup camp by Injot Dahar on 22nd September 2024 Kishore Nagar Boy's School, Bargavan, Namkum, Ranchi" src="assets/images/img/programs/healthcare/health-camp-24.jpg" loading="lazy">
+                        </div>
+                        <div class="content text-center">
+                            <h4 class="title">Free Health Checkup Camp at Kishore Nagar Boy's School, Namkum, Ranchi</h4>
+                            <a href="program.php" class="thm-btn style-2 text-center">Read More</a>
+                        </div>
+                    </div>
                     <div class="item">
                         <div class="inner-box">
                             <img alt="Injot Dahar" src="assets/images/img/programs/healthcare/Health Awareness, Career Guidance & Human Trafficking Workshop.jpg" loading="lazy">
@@ -267,7 +327,22 @@
                 <div class="section-title center">
                     <h2>Testimonials</h2>
                 </div>
-                <div class="inner-container">
+                <div class="row">
+                    <div class="col-lg-12">
+                        <div class="testimonial-div">
+                            <div>
+                                <img src="assets/images/img/testimonials/menesa-kirum-aind.png" alt="Injot Dahar">
+                            </div>
+                            <div>
+                                <h4 class="title">मेरी निराशा से भरी ज़िन्दगी में आशा की रौशनी 'इंजोत डहर' ने लाया। <br>'इँजोत डहर' पहला है, जिसने मुझसे पूछा कि मैं करना क्या चाहती हूँ</h4>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+
+
+                <!-- <div class="inner-container">
                     <div class="carousel-outer">
                         <ul class="testimonial-slider-content">
                             <li class="slide-item">
@@ -310,7 +385,9 @@
                             </ul>
                         </div>
                     </div>
-                </div>
+                </div> -->
+
+
             </div>
         </section>
 

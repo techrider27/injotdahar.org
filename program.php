@@ -46,6 +46,16 @@
                 </div>
                 <div class="row">
                     <div class="item col-md-3 col-sm-6 col-xs-12">
+                        <a href="assets/images/img/programs/healthcare/health-camp-24.jpg" class="img-popup">
+                            <figure class="img-box">
+                                <img alt="Free health checkup camp by Injot Dahar on 22nd September 2024 Kishore Nagar Boy's School, Bargavan, Namkum, Ranchi" src="assets/images/img/programs/healthcare/health-camp-24.jpg" loading="lazy">
+                            </figure>
+                            <div class="content">
+                                <p class="title text-center">Free Health Checkup Camp at Kishore Nagar Boy's School</p>
+                            </div>
+                        </a>
+                    </div>
+                    <div class="item col-md-3 col-sm-6 col-xs-12">
                         <a href="assets/images/img/programs/healthcare/Health Awareness, Career Guidance & Human Trafficking Workshop.jpg" class="img-popup">
                             <figure class="img-box">
                                 <img alt="Injot Dahar Programs" src="assets/images/img/programs/healthcare/Health Awareness, Career Guidance & Human Trafficking Workshop.jpg" loading="lazy">
