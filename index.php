@@ -48,6 +48,22 @@
 
                 <div class="carousel-inner" role="listbox">
                     <div class="item active">
+                        <img class="w-100" src="assets/images/img/slider/slider-9.jpg" alt="Free health checkup camp by Injot Dahar on 22nd September 2024 Kishore Nagar Boy's School, Bargavan, Namkum, Ranchi">
+                        <div class="carousel-caption">
+                            <h3>
+                                Free health checkup camp by Injot Dahar on 22nd September 2024 Kishore Nagar Boy's School, Bargavan, Namkum, Ranchi
+                            </h3>
+                        </div>
+                    </div>
+                    <div class="item">
+                        <img class="w-100" src="assets/images/img/slider/slider-10.jpg" alt="Free health checkup camp by Injot Dahar on 22nd September 2024 Kishore Nagar Boy's School, Bargavan, Namkum, Ranchi">
+                        <div class="carousel-caption">
+                            <h3>
+                                Free health checkup camp by Injot Dahar on 22nd September 2024 Kishore Nagar Boy's School, Bargavan, Namkum, Ranchi
+                            </h3>
+                        </div>
+                    </div>
+                    <div class="item">
                         <img class="w-100" src="assets/images/img/slider/slider-6.jpg" alt="Injot Dahar">
                         <div class="carousel-caption">
                             <h3>
@@ -105,7 +121,6 @@
                     </div>
                 </div>
 
-                <!-- Controls -->
                 <a class="left carousel-control" href="#carousel-example-generic" role="button" data-slide="prev">
                     <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
                     <span class="sr-only">Previous</span>
@@ -147,19 +162,6 @@
                             </div>
 
                             <a href="about.php" class="thm-btn style-2 text-center">Read More</a>
-
-                            <!-- <ul>
-                                <li><i class="fa fa-check"></i>This mistaken idea of denouncing pleasure</li>
-
-
-                                <li><i class="fa fa-check"></i>Master-builder of human happiness</li>
-
-
-                                <li><i class="fa fa-check"></i>Occasionally circumstances occur in toil</li>
-
-
-                                <li><i class="fa fa-check"></i>Undertakes laborious physical exercise</li>
-                            </ul> -->
                         </div>
                     </div>
                 </div>
@@ -174,6 +176,15 @@
                     <h2>Programs</h2>
                 </div>
                 <div class="gallery-carousel">
+                    <div class="item">
+                        <div class="inner-box">
+                            <img alt="Free health checkup camp by Injot Dahar on 22nd September 2024 Kishore Nagar Boy's School, Bargavan, Namkum, Ranchi" src="assets/images/img/programs/healthcare/health-camp-24.jpg" loading="lazy">
+                        </div>
+                        <div class="content text-center">
+                            <h4 class="title">Free Health Checkup Camp at Kishore Nagar Boy's School, Namkum, Ranchi</h4>
+                            <a href="program.php" class="thm-btn style-2 text-center">Read More</a>
+                        </div>
+                    </div>
                     <div class="item">
                         <div class="inner-box">
                             <img alt="Injot Dahar" src="assets/images/img/programs/healthcare/Health Awareness, Career Guidance & Human Trafficking Workshop.jpg" loading="lazy">
