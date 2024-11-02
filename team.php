@@ -219,7 +219,7 @@
                     <div class="item col-md-3 col-sm-6 col-xs-6 mb-3">
                         <div class="inner-box">
                             <div class="img-box">
-                                <img alt="Injot Dahar Team" src="assets/images/img/team/atul-tirkey.png" loading="lazy">
+                                <img alt="Mr. Atul Tirkey, Injot Dahar Team" src="assets/images/img/team/atul-tirkey.png" loading="lazy">
                             </div>
                         </div>
                         <div class="author center">
@@ -230,7 +230,7 @@
                     <div class="item col-md-3 col-sm-6 col-xs-6 mb-3">
                         <div class="inner-box">
                             <div class="img-box">
-                                <img alt="Injot Dahar Team" src="assets/images/img/team/john-denis-horo.jpg" loading="lazy">
+                                <img alt="Mr. John Denis Horo, Injot Dahar Team" src="assets/images/img/team/john-denis-horo.jpg" loading="lazy">
                             </div>
                         </div>
                         <div class="author center">
@@ -248,7 +248,7 @@
                     <div class="item col-md-3 col-sm-6 col-xs-6 mb-3">
                         <div class="inner-box">
                             <div class="img-box">
-                                <img alt="Injot Dahar Team" src="assets/images/img/team/smrit-kujur.png" loading="lazy">
+                                <img alt="Ms. Smriti Kujur, Injot Dahar Team" src="assets/images/img/team/smrit-kujur.png" loading="lazy">
                             </div>
                         </div>
                         <div class="author center">

@@ -7,7 +7,7 @@
             <div class="item col-md-3 col-sm-6 col-xs-6">
                 <div class="inner-box">
                     <div class="img-box">
-                        <img alt="" src="assets/images/img/team/alka-hembrom.png">
+                        <img alt="Alka Hembrom, President, Injot Dahar" src="assets/images/img/team/alka-hembrom.png">
                     </div>
                 </div>
                 <div class="author center">
@@ -19,7 +19,7 @@
             <div class="item col-md-3 col-sm-6 col-xs-6">
                 <div class="inner-box">
                     <div class="img-box">
-                        <img alt="" src="assets/images/img/team/mahadeo-munda.png">
+                        <img alt="Mr. Mahadeo Munda, Vice President, Injot Dahar" src="assets/images/img/team/mahadeo-munda.png">
                     </div>
                 </div>
                 <div class="author center">
@@ -31,7 +31,7 @@
             <div class="item col-md-3 col-sm-6 col-xs-6">
                 <div class="inner-box">
                     <div class="img-box">
-                        <img alt="" src="assets/images/img/team/jona-lal-marandi.png">
+                        <img alt="Mr. Jonas Lal Marandi, Vice President, Injot Dahar" src="assets/images/img/team/jona-lal-marandi.png">
                     </div>
                 </div>
                 <div class="author center">
@@ -43,7 +43,7 @@
             <div class="item col-md-3 col-sm-6 col-xs-6">
                 <div class="inner-box">
                     <div class="img-box">
-                        <img alt="" src="assets/images/img/team/deonis-xess.png">
+                        <img alt="Dr. Deonis Xess, General Secretary, Injot Dahar" src="assets/images/img/team/deonis-xess.png">
                     </div>
                 </div>
                 <div class="author center">

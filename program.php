@@ -194,7 +194,7 @@
                                 <img alt="Injot Dahar Programs" src="assets/images/img/programs/encouraging-youth/Injot Dahar honored Sunny Kerketta, ISRO Research Assistant, the sole tribal from Jharkhand selected.jpg" loading="lazy">
                             </figure>
                             <div class="content">
-                                <p class="title text-center">Honored Sunny Kerketta, Jharkhand's sole tribal at ISRO</p>
+                                <p class="title text-center">Honoured Mr. Sunny Kerketta, Research Scientist ISRO</p>
                             </div>
                         </a>
                     </div>
