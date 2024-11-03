@@ -44,10 +44,19 @@
                     <li data-target="#carousel-example-generic" data-slide-to="4"></li>
                     <li data-target="#carousel-example-generic" data-slide-to="5"></li>
                     <li data-target="#carousel-example-generic" data-slide-to="6"></li>
+                    <li data-target="#carousel-example-generic" data-slide-to="7"></li>
                 </ol>
 
                 <div class="carousel-inner" role="listbox">
                     <div class="item active">
+                        <img class="w-100" src="assets/images/img/slider/slider-11.jpg" alt="Health Checkup Camp at Ursuline Intermediate College, Ranchi">
+                        <div class="carousel-caption">
+                            <h3>
+                                Health Checkup Camp at Ursuline Intermediate College, Ranchi
+                            </h3>
+                        </div>
+                    </div>
+                    <div class="item">
                         <img class="w-100" src="assets/images/img/slider/slider-9.jpg" alt="Free health checkup camp by Injot Dahar on 22nd September 2024 Kishore Nagar Boy's School, Bargavan, Namkum, Ranchi">
                         <div class="carousel-caption">
                             <h3>
@@ -176,6 +185,15 @@
                     <h2>Programs</h2>
                 </div>
                 <div class="gallery-carousel">
+                    <div class="item">
+                        <div class="inner-box">
+                            <img alt="Health Checkup Camp at Ursuline Intermediate College, Ranchi" src="assets/images/img/programs/healthcare/health-camp-ursuline.jpg" loading="lazy">
+                        </div>
+                        <div class="content text-center">
+                            <h4 class="title">Health Checkup Camp at Ursuline Intermediate College, Ranchi</h4>
+                            <a href="program.php" class="thm-btn style-2 text-center">Read More</a>
+                        </div>
+                    </div>
                     <div class="item">
                         <div class="inner-box">
                             <img alt="Free health checkup camp by Injot Dahar on 22nd September 2024 Kishore Nagar Boy's School, Bargavan, Namkum, Ranchi" src="assets/images/img/programs/healthcare/health-camp-24.jpg" loading="lazy">
