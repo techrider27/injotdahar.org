@@ -46,6 +46,16 @@
                 </div>
                 <div class="row">
                     <div class="item col-md-3 col-sm-6 col-xs-12">
+                        <a href="assets/images/img/programs/healthcare/health-camp-ursuline.jpg" class="img-popup">
+                            <figure class="img-box">
+                                <img alt="Health Checkup Camp at Ursuline Intermediate College, Ranchi" src="assets/images/img/programs/healthcare/health-camp-ursuline.jpg" loading="lazy">
+                            </figure>
+                            <div class="content">
+                                <p class="title text-center">Health Checkup Camp at Ursuline Intermediate College, Ranchi</p>
+                            </div>
+                        </a>
+                    </div>
+                    <div class="item col-md-3 col-sm-6 col-xs-12">
                         <a href="assets/images/img/programs/healthcare/health-camp-24.jpg" class="img-popup">
                             <figure class="img-box">
                                 <img alt="Free health checkup camp by Injot Dahar on 22nd September 2024 Kishore Nagar Boy's School, Bargavan, Namkum, Ranchi" src="assets/images/img/programs/healthcare/health-camp-24.jpg" loading="lazy">
